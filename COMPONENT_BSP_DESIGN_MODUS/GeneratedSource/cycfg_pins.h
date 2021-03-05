@@ -5,12 +5,12 @@
 * Pin configuration
 * This file was automatically generated and should not be modified.
 * Tools Package 2.2.0.2801
-* mtb-pdl-cat2 1.0.0.2377
+* mtb-pdl-cat2 1.1.0.2839
 * personalities 3.0.0.0
-* udd 3.0.0.746
+* udd 3.0.0.912
 *
 ********************************************************************************
-* Copyright 2020 Cypress Semiconductor Corporation
+* Copyright 2021 Cypress Semiconductor Corporation
 * SPDX-License-Identifier: Apache-2.0
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
@@ -1296,6 +1296,7 @@ extern "C" {
 	#define ioss_0_port_4_pin_1_HSIOM HSIOM_SEL_GPIO
 #endif
 #define CYBSP_CMOD_HSIOM ioss_0_port_4_pin_1_HSIOM
+#define CYBSP_CMOD_IRQ ioss_interrupt_gpio_IRQn
 #if defined (CY_USING_HAL)
 	#define CYBSP_CMOD_HAL_PORT_PIN P4_1
 #endif //defined (CY_USING_HAL)
@@ -1322,6 +1323,7 @@ extern "C" {
 	#define ioss_0_port_4_pin_2_HSIOM HSIOM_SEL_GPIO
 #endif
 #define CYBSP_CINTA_HSIOM ioss_0_port_4_pin_2_HSIOM
+#define CYBSP_CINTA_IRQ ioss_interrupt_gpio_IRQn
 #if defined (CY_USING_HAL)
 	#define CYBSP_CINTA_HAL_PORT_PIN P4_2
 #endif //defined (CY_USING_HAL)
@@ -1348,6 +1350,7 @@ extern "C" {
 	#define ioss_0_port_4_pin_3_HSIOM HSIOM_SEL_GPIO
 #endif
 #define CYBSP_CINTB_HSIOM ioss_0_port_4_pin_3_HSIOM
+#define CYBSP_CINTB_IRQ ioss_interrupt_gpio_IRQn
 #if defined (CY_USING_HAL)
 	#define CYBSP_CINTB_HAL_PORT_PIN P4_3
 #endif //defined (CY_USING_HAL)
