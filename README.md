@@ -64,11 +64,11 @@ See the [BSP API Reference Manual][api] for the complete list of the provided in
 * [CY8CKIT-041-41XX BSP API Reference Manual][api]
 * [CY8CKIT-041-41XX Documentation](https://www.cypress.com/documentation/development-kitsboards/cy8ckit-041-41xx-psoc-4100s-capsense-pioneer-kit)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
-* [Cypress Semiconductor GitHub](https://github.com/cypresssemiconductorco)
+* [Infineon GitHub](https://github.com/infineon)
 * [ModusToolbox](https://www.cypress.com/products/modustoolbox-software-environment)
 
 [api]: https://cypresssemiconductorco.github.io/TARGET_CY8CKIT-041-41XX/html/modules.html
 [settings]: https://cypresssemiconductorco.github.io/TARGET_CY8CKIT-041-41XX/html/md_bsp_settings.html
 
 ---
-© Cypress Semiconductor Corporation, 2019-2021.
+© Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation, 2019-2021.
