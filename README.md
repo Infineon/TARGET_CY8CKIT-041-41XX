@@ -2,7 +2,7 @@
 
 ## Overview
 
-The PSoC 4100S Pioneer Kit enables you to evaluate and develop with Cypress's fourth-generation, low-power CapSense solution using the PSoC 4100S device.
+The PSoC 4100S Pioneer Kit enables you to evaluate and develop with Cypress's fourth-generation, low-power CAPSENSE solution using the PSoC 4100S device.
 
 ![](docs/html/board.png)
 
@@ -12,7 +12,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ### Kit Features:
 
-* Ready-to-Use CapSense Trackpad
+* Ready-to-Use CAPSENSE Trackpad
 * EZ-BLE PRoC module
 * Potentiometer
 * Rechargeable coin-cell battery
@@ -65,10 +65,10 @@ See the [BSP API Reference Manual][api] for the complete list of the provided in
 * [CY8CKIT-041-41XX Documentation](https://www.cypress.com/documentation/development-kitsboards/cy8ckit-041-41xx-psoc-4100s-capsense-pioneer-kit)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Infineon GitHub](https://github.com/infineon)
-* [ModusToolbox](https://www.cypress.com/products/modustoolbox-software-environment)
+* [ModusToolbox™](https://www.cypress.com/products/modustoolbox-software-environment)
 
-[api]: https://cypresssemiconductorco.github.io/TARGET_CY8CKIT-041-41XX/html/modules.html
-[settings]: https://cypresssemiconductorco.github.io/TARGET_CY8CKIT-041-41XX/html/md_bsp_settings.html
+[api]: https://infineon.github.io/TARGET_CY8CKIT-041-41XX/html/modules.html
+[settings]: https://infineon.github.io/TARGET_CY8CKIT-041-41XX/html/md_bsp_settings.html
 
 ---
 © Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation, 2019-2021.
